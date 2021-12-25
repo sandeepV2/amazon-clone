@@ -2,11 +2,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">    
+    // EXPOLE: BEM convention of naming style.
+    <div className="app">    
         <p>
           Create <code>amazon-clone</code> 🚀 !
         </p>
-     
     </div>
   );
 }
