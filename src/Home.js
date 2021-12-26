@@ -13,12 +13,14 @@ function Home() {
         />
         <div className="home__row">
           <Product
+            id={22312}
             title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
             price={11}
             rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
           />
           <Product
+            id={98998}
             title="The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future"
             price={24.5}
             rating={4}
@@ -27,18 +29,21 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
+            id={65656}
             title="Bose Portable Smart Speaker — Wireless Bluetooth Speaker with Alexa Voice Control Built-In,"
             price={339}
             rating={5}
             image="https://m.media-amazon.com/images/I/616zERCeOhL._AC_UL640_FMwebp_QL65_.jpg"
           />
           <Product
+            id={7457574}
             title="Echo Show 8 (1st Gen, 2019 release) -- HD smart display with Alexa"
             price={111}
             rating={4}
             image="https://m.media-amazon.com/images/I/51tDwmmaSKL._AC_UL640_FMwebp_QL65_.jpg"
           />
           <Product
+            id={989786}
             title="Baby Monitor, WINEES 1080P Indoor Camera with Audio and Night Vision"
             price={45.99}
             rating={5}
